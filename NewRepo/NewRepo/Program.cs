@@ -12,6 +12,11 @@ namespace NewRepo
         {
             Console.WriteLine("Your placed");
         }
-   
+        public void UC1()
+        {
+            Console.WriteLine("Your placed");
+
+        }
+
     }
 }
